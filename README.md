@@ -26,7 +26,7 @@ The Hand Gesture Volume Controller is a computer vision-based project that allow
    ```
 3. Run the script:
    ```bash
-   python hand_gesture_volume.py
+   python project1.py
    ```
 
 ## Usage
