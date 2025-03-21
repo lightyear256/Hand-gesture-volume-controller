@@ -35,14 +35,14 @@ The Hand Gesture Volume Controller is a computer vision-based project that allow
 3. Adjust the volume by bringing your thumb and index finger closer or farther apart.
 4. Close the script window to exit.
 
-## How It Work
+## How It Works
 - The script captures video frames from the webcam.
 - The `handtrackingmodule` detects hand landmarks.
 - The distance between the thumb and index finger is mapped to the system volume range.
 - Volume changes dynamically as the finger distance varies.
 - A volume bar and percentage indicator provide visual feedback.
 
-## Acknowledgment
+## Acknowledgments
 - OpenCV for image processing.
 - MediaPipe for hand tracking.
 - Pycaw for audio control.
